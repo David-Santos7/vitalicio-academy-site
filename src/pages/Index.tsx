@@ -13,7 +13,7 @@ const Index = () => {
       duration: "40 horas",
       students: "1.2k",
       rating: "4.9",
-      image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=600&fit=crop",
+      image: "/teste.jpg",
       badge: "Mais Vendido",
     },
     {
@@ -24,7 +24,7 @@ const Index = () => {
       duration: "30 horas",
       students: "980",
       rating: "4.8",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
+      image: "./",
       badge: "Destaque",
     },
     {
@@ -35,7 +35,7 @@ const Index = () => {
       duration: "35 horas",
       students: "756",
       rating: "4.9",
-      image: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&h=600&fit=crop",
+      image: "./",
     },
   ];
 
@@ -48,7 +48,7 @@ const Index = () => {
       duration: "25 horas",
       students: "645",
       rating: "4.7",
-      image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=600&fit=crop",
+      image: "./",
     },
     {
       title: "Finanças Pessoais",
@@ -58,7 +58,7 @@ const Index = () => {
       duration: "20 horas",
       students: "892",
       rating: "4.8",
-      image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&h=600&fit=crop",
+      image: "./",
       badge: "Popular",
     },
     {
@@ -69,7 +69,7 @@ const Index = () => {
       duration: "45 horas",
       students: "534",
       rating: "4.9",
-      image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=600&fit=crop",
+      image: "h./",
       badge: "Novo",
     },
   ];
